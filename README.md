@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="center">Mi stack:</h3>
+<h3 align="center">Mi STACK ACTUAL:</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">Pueden contactarme por las siguientes redes sociales:</h3>
+<h3 align="center">MIS REDES</h3>
 
 ###
 
