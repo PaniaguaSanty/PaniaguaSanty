@@ -44,7 +44,7 @@
   <a href="https://www.linkedin.com/in/santiago-paniagua-9066a6252/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="68" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/1/#inbox" target="_blank">
+  <a href="paniaguasanty10@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="68" height="50" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/_santi.a" target="_blank">
