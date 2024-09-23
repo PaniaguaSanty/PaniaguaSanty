@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Soy un joven entusiasta, llevo 3 años estudiando la carrera de programador y analista en sistemas, próximo a recibirme.<br>En búsqueda de experiencia laboral y con ganas de crecer en el ámbito profesional!</h3>
+<h3 align="left">Técnico superior programador y analista en sistemas, próximo a recibirme.<br>En búsqueda de experiencia laboral y con ganas de crecer en el ámbito profesional!</h3>
 
 ###
 
