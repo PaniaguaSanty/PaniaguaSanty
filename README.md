@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">Técnico superior programador y analista en sistemas, próximo a recibirme.<br>Buscando crecer en el ámbito profesional!</h3>
+<h3 align="center">Técnico superior programador y analista en sistemas, próximo a recibirme.<br>Buscando crecer en el ámbito profesional!</h3>
 
 ###
 
