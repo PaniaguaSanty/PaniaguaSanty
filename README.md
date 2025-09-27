@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Santiago Agustín Paniagua Bosquet</h1>
+<h1 align="center">Hola, soy Santiago Agustín Bosquet</h1>
 
 ###
 
