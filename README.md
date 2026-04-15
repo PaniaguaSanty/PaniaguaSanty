@@ -4,6 +4,7 @@
 
 <p align="center">
   Apasionado por construir soluciones escalables y mantenibles. Con experiencia en desarrollo backend, arquitecturas distribuidas y bases de datos.
+  Actualmente cursando la carrera de Programación e Innovación tecnológica en el mejor instituto de Posadas Misiones, INCADE.
 </p>
 
 ---
